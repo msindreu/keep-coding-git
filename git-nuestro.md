@@ -1,11 +1,14 @@
-LA
-<p><em>Git</em> nuestro que estas en los repos<br />
-Comprimidos sean tus <em>commits</em><br />
-Venga a nosotros tu <em>log</em><br />
-En el local como en el <em>remote</em><br />
-Danos hoy nuestro <em>pull</em> de cada día<br />
-Perdona nuestros <em>conflictos</em><br />
-Como también perdonamos los de otros geeks<br />
-No nos dejes caer en <em>detached HEAD</em><br />
-y líbranos de <em>SVN</em><br />
-<code>git commit --amend</code></p>
+*Git* our that you are in the repos
+Compressed be your *commits*
+Come to us your *log*
+Locally and *remotely*
+Give us today our daily *pull*
+Forgive our *conflicts*
+Exercise 1
+You must create a repository and perform a series of operations from the terminal and respond
+to the questionnaire questions, which ask about commands used in certain steps.
+.
+As we also forgive those of other geeks
+Don't let us fall into *detached HEAD*
+and free us from *SVN*
+`git commit --amend`
